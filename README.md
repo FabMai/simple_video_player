@@ -1,4 +1,4 @@
-$project
+project
 ========
 
 The aim of this project was to personalised the video 
@@ -18,4 +18,4 @@ Steps
 Contribute
 ----------
 
-- Source Code: github.com/$project/$project
+- Source Code: https://lertiam@bitbucket.org/lertiam/simple_video_player.git
